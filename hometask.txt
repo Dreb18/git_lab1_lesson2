@@ -3,3 +3,18 @@
 'Create release branch with human (master) in boots (boots branch) and hat (hat branch).'
 А в ветке master он дополнен предложением и выглядит немного иначе:
 'Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)'
+
+-----------------
+
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'boots' into boots_buttons
+Merge branch 'buttons' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+Создан файл с результатами сравнения
+Файл дополнен комментариями коммитов ветки master
