@@ -1,0 +1,5 @@
+В ветках master и demo различается файл 'README'.
+В ветке demo он выглядит так:
+'Create release branch with human (master) in boots (boots branch) and hat (hat branch).'
+А в ветке master он дополнен предложением и выглядит немного иначе:
+'Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)'
